@@ -1,2 +1,15 @@
-# E-Commerce-Sales-Analysis-Using-Excel
-This project features an interactive Excel dashboard that provides a detailed breakdown of sales performance by occasion, product category, time of day, and city. It helps visualize key metrics like total revenue, average customer spend, and order-delivery time for data-driven business decisions.
+# 🛒Excel Sales Dashboard :
+
+A dynamic Excel dashboard for visualizing regional sales performance. It includes interactive slicers and charts to analyze:
+
+1.  Region-wise Sales Breakdown.
+
+2.  Monthly & Yearly Sales Trends.
+
+3.  Top 10 Customers.
+
+4.  Delivery Person Performance.
+
+5.  Cost, Selling Price & Profit Comparison.
+
+#### Built using pivot charts and slicers for real-time filtering and insights. Ideal for monitoring sales data across teams and locations.
