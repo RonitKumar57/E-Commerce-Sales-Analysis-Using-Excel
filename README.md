@@ -1,4 +1,4 @@
-# 🛒Excel Sales Dashboard :
+# 🛒 E-Commerce Sales Dashboard :
 
 A dynamic Excel dashboard for visualizing regional sales performance. It includes interactive slicers and charts to analyze:
 
