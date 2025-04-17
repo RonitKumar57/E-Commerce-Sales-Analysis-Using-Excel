@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Dashboard :
+# 🛒  Food Delivery Sales Dashboard & Analysis :
 
 A dynamic Excel dashboard for visualizing regional sales performance. It includes interactive slicers and charts to analyze:
 
